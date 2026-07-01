@@ -1,7 +1,7 @@
 {
-  "version": "0.1.0",
-  "url": "https://github.com/Boilorange6/archiboard-releases/releases/download/v0.1.0/Archiboard-Setup-0.1.0.exe",
-  "sha256": "",
-  "notes": "초기 매니페스트",
-  "publishedAt": "2026-06-30T00:00:00Z"
+  "version": "0.1.1",
+  "url": "https://github.com/Boilorange6/archiboard-releases/releases/download/v0.1.1/Archiboard-Setup-0.1.1.exe",
+  "sha256": "42b3aed79eeeff0a64fff2df0fff5a9f2f2ceac7f591606cea1d47607e8e4b35",
+  "notes": "운영 상태 화면에 최신 버전 확인 표시와 수동 업데이트 확인 버튼을 추가했습니다.",
+  "publishedAt": "2026-07-01T00:22:15.524Z"
 }
