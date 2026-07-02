@@ -1,7 +1,7 @@
 {
-  "version": "0.1.2",
-  "url": "https://github.com/Boilorange6/archiboard-releases/releases/download/v0.1.2/Archiboard-Setup-0.1.2.exe",
-  "sha256": "38d1f26664332a9fd67ab72e9407e39b5b46064e59ac5a0f335b45330c4fb843",
-  "notes": "재기동 안정화: 감시 재시작 루프 + 업데이트 시 포트 해제 대기(EADDRINUSE 방지)",
-  "publishedAt": "2026-07-01T00:54:18.339Z"
+  "version": "0.1.3",
+  "url": "https://github.com/Boilorange6/archiboard-releases/releases/download/v0.1.3/Archiboard-Setup-0.1.3.exe",
+  "sha256": "51897785786b5f051bbc422e85112daf6c0c7c1c37799ed5ea226eb6aebfe14b",
+  "notes": "실행 시 자동 업데이트 모달 + 무인증 health 폴링(재시작 후 안정적 새로고침)",
+  "publishedAt": "2026-07-02T00:29:13.260Z"
 }
