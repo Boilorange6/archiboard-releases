@@ -1,7 +1,7 @@
 {
-  "version": "0.1.4",
-  "url": "https://github.com/Boilorange6/archiboard-releases/releases/download/v0.1.4/Archiboard-Setup-0.1.4.exe",
-  "sha256": "0a766a62bfe363b6a8e0c017826c05cf0e53d9cdc6641ef345f62670822529e7",
-  "notes": "실행 시 자동 업데이트 모달 동작 확인용 릴리스입니다. 앱을 열면 업데이트 안내 창이 자동으로 표시됩니다.",
-  "publishedAt": "2026-07-02T00:33:05.715Z"
+  "version": "0.1.5",
+  "url": "https://github.com/Boilorange6/archiboard-releases/releases/download/v0.1.5/Archiboard-Setup-0.1.5.exe",
+  "sha256": "0b0528cfd880bc6ecad856024d3214743cb6fe1ce24db2e1e1a0f7909e31c4a7",
+  "notes": "재부팅 자동시작 안정화: 로그온 예약작업으로 전환(서버가 확실히 자동 기동) + 접속기 실행 시 서버 꺼져 있으면 자동 기동",
+  "publishedAt": "2026-07-03T01:30:16.153Z"
 }
