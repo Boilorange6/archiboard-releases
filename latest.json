@@ -1,7 +1,7 @@
 {
-  "version": "0.2.0",
-  "url": "https://github.com/Boilorange6/archiboard-releases/releases/download/v0.2.0/Archiboard-Setup-0.2.0.exe",
-  "sha256": "c265322afd5b6b780eb9f5c4fa1226be5b33a2ed74077318be81ea614f8dc54a",
-  "notes": "갤러리 AI 기능 추가: 프리셋 추출(과거 PDF→레이아웃), AI 목업 초안 생성, 슬롯 편집(이미지 교체·텍스트 수정). 작업창 샘플 라이브러리가 연결 폴더 기반으로 전환되었습니다. 주의: 이 버전 설치 후 이전 버전으로 롤백하려면 데이터 백업 복원이 필요합니다.",
-  "publishedAt": "2026-07-14T00:33:19.771Z"
+  "version": "0.2.1",
+  "url": "https://github.com/Boilorange6/archiboard-releases/releases/download/v0.2.1/Archiboard-Setup-0.2.1.exe",
+  "sha256": "e8345fd381afec06b961f2edf34c4dc4e64d41091e91f9a882fe2fcf07b3172c",
+  "notes": "대용량 PDF 프리셋 추출 지원: 20MB를 초과하는 PDF(최대 1GB)도 페이지를 이미지로 변환해 프리셋을 추출할 수 있습니다(최대 100페이지, 페이지 수 비례 AI 비용 사전 고지). 추출 중 창을 닫으면 AI 호출이 차단되는 안전 장치 포함.",
+  "publishedAt": "2026-07-14T12:35:43.902Z"
 }
