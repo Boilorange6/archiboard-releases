@@ -1,7 +1,7 @@
 {
-  "version": "0.2.1",
-  "url": "https://github.com/Boilorange6/archiboard-releases/releases/download/v0.2.1/Archiboard-Setup-0.2.1.exe",
-  "sha256": "e8345fd381afec06b961f2edf34c4dc4e64d41091e91f9a882fe2fcf07b3172c",
-  "notes": "대용량 PDF 프리셋 추출 지원: 20MB를 초과하는 PDF(최대 1GB)도 페이지를 이미지로 변환해 프리셋을 추출할 수 있습니다(최대 100페이지, 페이지 수 비례 AI 비용 사전 고지). 추출 중 창을 닫으면 AI 호출이 차단되는 안전 장치 포함.",
-  "publishedAt": "2026-07-14T12:35:43.902Z"
+  "version": "0.2.2",
+  "url": "https://github.com/Boilorange6/archiboard-releases/releases/download/v0.2.2/Archiboard-Setup-0.2.2.exe",
+  "sha256": "025817d2819d897ad066919821ab37285de99ea03af0cf3bcc1529001139075d",
+  "notes": "프리셋 기능 고도화: ①프리셋에 타이포그래피(서체·글자 크기·위계·색) 정보 추가 — 목업이 원본 산출물의 디자인을 반영합니다. ②레이아웃 프리셋과 디자인 프리셋 분리 — 한 산출물의 레이아웃에 다른 산출물의 디자인(서체·색 팔레트·톤)을 조합해 목업을 생성할 수 있습니다. ③디자인 프리셋 편집 화면 추가 — 서체·위계·색·톤을 앱에서 직접 수정. 추출 시 레이아웃 프리셋과 디자인 프리셋이 함께 생성됩니다.",
+  "publishedAt": "2026-07-15T08:46:46.895Z"
 }
