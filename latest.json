@@ -1,7 +1,7 @@
 {
-  "version": "0.2.3",
-  "url": "https://github.com/Boilorange6/archiboard-releases/releases/download/v0.2.3/Archiboard-Setup-0.2.3.exe",
-  "sha256": "0565f66c979c910bef9da952fe0f1525749bc8aac8f312d74024b3844bf8d79d",
-  "notes": "자동 업데이트 안정화: 이전 버전에서 [업데이트 하기]가 '적용 실패'로 끝나던 문제를 수정했습니다. 이제 업데이트 시 관리자 권한(UAC) 승인 창이 한 번 뜨며, [예]를 누르면 자동으로 설치됩니다. 실패 시 원인이 화면과 로그에 표시되도록 개선했습니다. (v0.2.1 이하에서 업데이트가 막히던 분은 이 버전을 한 번만 수동 설치하면 이후부터 자동 업데이트가 정상 동작합니다.)",
-  "publishedAt": "2026-07-16T08:26:40.972Z"
+  "version": "0.2.4",
+  "url": "https://github.com/Boilorange6/archiboard-releases/releases/download/v0.2.4/Archiboard-Setup-0.2.4.exe",
+  "sha256": "a2dc688fea518dc6db05b7b4df3038e45b439d4b039215ae6bee25cfea92d938",
+  "notes": "프리셋 추출 정확도 대폭 개선: 텍스트 위치 기계 측정(PDF 텍스트 레이어/문자 인식), 측정 라인 정제(노이즈 제거·컬럼 분리·박스 폭 복원), 삽도 내 주석 텍스트 억제, 인식 속도 개선(SIMD). 구형 레이아웃+디자인 프리셋 혼합 시 사전 경고 추가.",
+  "publishedAt": "2026-07-17T12:43:52.715Z"
 }
