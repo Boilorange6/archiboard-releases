@@ -1,7 +1,7 @@
 {
-  "version": "0.2.7",
-  "url": "https://github.com/Boilorange6/archiboard-releases/releases/download/v0.2.7/Archiboard-Setup-0.2.7.exe",
-  "sha256": "f9a2febd56ef2eb3bf9035e4d64529eb8dd8390e3e73041e3e330a19915f2ca8",
-  "notes": "프리셋 추출 시 갤러리 폴더 분류 명칭을 이미지 주제(topics)로 우선 사용 — 폴더 정리만으로 목업 이미지 배치 정확도 향상.",
-  "publishedAt": "2026-07-19T12:04:20.290Z"
+  "version": "0.2.8",
+  "url": "https://github.com/Boilorange6/archiboard-releases/releases/download/v0.2.8/Archiboard-Setup-0.2.8.exe",
+  "sha256": "4b14213fa926fdedb1429ba2a766a0fd3b8dcb5817dca86f19b773612d0ae86f",
+  "notes": "목업 이미지 배치 정확도 향상: 슬롯 주제와 일치하는 갤러리 폴더의 파일을 우선 후보로 제시. 생성 후 부족 자료 리포트(어떤 유형 자료가 몇 곳 부족한지) 표시. 텍스트 분량을 슬롯 크기에 맞게 제한.",
+  "publishedAt": "2026-07-19T15:21:09.876Z"
 }
