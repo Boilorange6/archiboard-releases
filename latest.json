@@ -1,7 +1,7 @@
 {
-  "version": "0.3.1",
-  "url": "https://github.com/Boilorange6/archiboard-releases/releases/download/v0.3.1/Archiboard-Setup-0.3.1.exe",
-  "sha256": "9dcb768c783dfd2da30a21dc20c8e807c6f995d314a91734c6a6acd94ab74f57",
-  "notes": "편집기 사용성 개선 — 페이지 썸네일 독립 스크롤, 드래그 시 파란 선택 방지, 가이드라인 생성·이동 스냅, 가이드 잠금 토글, Ctrl+휠 캔버스 전용 줌(브라우저 확대 차단), 텍스트 슬롯 고정 텍스트(AI 미작성·항상 동일 출력), 색상 컬러 피커",
-  "publishedAt": "2026-07-21T03:34:03.361Z"
+  "version": "0.3.2",
+  "url": "https://github.com/Boilorange6/archiboard-releases/releases/download/v0.3.2/Archiboard-Setup-0.3.2.exe",
+  "sha256": "21ca9255486ab9d1fa5b0a64df20073c0f1aa898160f6c58d594271e0172d5b4",
+  "notes": "일정표 편집 UI/UX 개선 — 칸 선택 오차 수정, 이벤트 날짜 편집, 막대 생성 중 날짜 표시, Ctrl+드래그 복제, 격자 크기 조절, 칸/행 색상, 막대 텍스트 옵션, 막대 종속 이벤트",
+  "publishedAt": "2026-07-21T08:53:56.588Z"
 }
