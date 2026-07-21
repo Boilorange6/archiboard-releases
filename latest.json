@@ -1,7 +1,7 @@
 {
-  "version": "0.2.9",
-  "url": "https://github.com/Boilorange6/archiboard-releases/releases/download/v0.2.9/Archiboard-Setup-0.2.9.exe",
-  "sha256": "41a8e66203a9d54068bb4f06b9368b0c177e8320ff55a7ebfcc2fefedd9a8182",
-  "notes": "운영 안정화: 갤러리 자동 백업(서버측 증분, 매일 지정 시각 + 수동 실행), 관리자 화면 월간 AI 사용량·추정 비용 표시, 프리셋 같은 이름 덮어쓰기 옵션(기존본은 휴지통 보관).",
-  "publishedAt": "2026-07-19T18:06:47.103Z"
+  "version": "0.3.0",
+  "url": "https://github.com/Boilorange6/archiboard-releases/releases/download/v0.3.0/Archiboard-Setup-0.3.0.exe",
+  "sha256": "713286c8aa8bd12e90a77fa5728160d2a5fbb0bb21145a34fbe98d47035cf88a",
+  "notes": "레이아웃 편집기 추가 — 추출한 프리셋을 드래그·핸들·스냅·가이드라인으로 시각 편집. 역할 8종(제목·부제목·소제목·작은제목·본문·수치·캡션·쪽번호) 개편, 이미지 배경/삽도 구분, 쪽번호 자동 삽입, 페이지 추가·복제·삭제·순서, 실행취소/재실행, 정렬·분배, 원본 PDF 밑그림",
+  "publishedAt": "2026-07-21T00:26:08.851Z"
 }
