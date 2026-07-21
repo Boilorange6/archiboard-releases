@@ -1,7 +1,7 @@
 {
-  "version": "0.3.2",
-  "url": "https://github.com/Boilorange6/archiboard-releases/releases/download/v0.3.2/Archiboard-Setup-0.3.2.exe",
-  "sha256": "21ca9255486ab9d1fa5b0a64df20073c0f1aa898160f6c58d594271e0172d5b4",
-  "notes": "일정표 편집 UI/UX 개선 — 칸 선택 오차 수정, 이벤트 날짜 편집, 막대 생성 중 날짜 표시, Ctrl+드래그 복제, 격자 크기 조절, 칸/행 색상, 막대 텍스트 옵션, 막대 종속 이벤트",
-  "publishedAt": "2026-07-21T08:53:56.588Z"
+  "version": "0.4.0",
+  "url": "https://github.com/Boilorange6/archiboard-releases/releases/download/v0.4.0/Archiboard-Setup-0.4.0.exe",
+  "sha256": "d1b05a99982aae0fefcf7ea06913b307bf1860d0533c040ea1831b95a67e54d1",
+  "notes": "외부(모바일) 접속 — Cloudflare Tunnel 통합(설치 시 토큰 입력), 관리자 접속 안내(QR·인쇄), 폰 홈 화면 앱 설치, 로그인 시도 제한(5회 실패 시 5분 잠금)",
+  "publishedAt": "2026-07-21T12:01:06.637Z"
 }
