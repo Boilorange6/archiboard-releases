@@ -1,7 +1,7 @@
 {
-  "version": "0.4.0",
-  "url": "https://github.com/Boilorange6/archiboard-releases/releases/download/v0.4.0/Archiboard-Setup-0.4.0.exe",
-  "sha256": "d1b05a99982aae0fefcf7ea06913b307bf1860d0533c040ea1831b95a67e54d1",
-  "notes": "외부(모바일) 접속 — Cloudflare Tunnel 통합(설치 시 토큰 입력), 관리자 접속 안내(QR·인쇄), 폰 홈 화면 앱 설치, 로그인 시도 제한(5회 실패 시 5분 잠금)",
-  "publishedAt": "2026-07-21T12:01:06.637Z"
+  "version": "0.4.2",
+  "url": "https://github.com/Boilorange6/archiboard-releases/releases/download/v0.4.2/Archiboard-Setup-0.4.2.exe",
+  "sha256": "b1bb559abf22b87d3a33dffac60235ef8aac649ce9fc0715dbc0c1db695463bb",
+  "notes": "목업 워크플로우 개편 — 용어 통일(초안→목업), 목업 목록 우선 UI, 일정탭 갤러리 연결 배지, 미연결 산출물 그자리 연결, 목업 다른이름 저장(버전)·이미지 직접 업로드·레이아웃 편집, 최종 목업 제출(갤러리 복사 통합·작업물 등록)",
+  "publishedAt": "2026-07-22T01:04:16.892Z"
 }
