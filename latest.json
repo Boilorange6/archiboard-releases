@@ -1,7 +1,7 @@
 {
-  "version": "0.4.2",
-  "url": "https://github.com/Boilorange6/archiboard-releases/releases/download/v0.4.2/Archiboard-Setup-0.4.2.exe",
-  "sha256": "b1bb559abf22b87d3a33dffac60235ef8aac649ce9fc0715dbc0c1db695463bb",
-  "notes": "목업 워크플로우 개편 — 용어 통일(초안→목업), 목업 목록 우선 UI, 일정탭 갤러리 연결 배지, 미연결 산출물 그자리 연결, 목업 다른이름 저장(버전)·이미지 직접 업로드·레이아웃 편집, 최종 목업 제출(갤러리 복사 통합·작업물 등록)",
-  "publishedAt": "2026-07-22T01:04:16.892Z"
+  "version": "0.4.3",
+  "url": "https://github.com/Boilorange6/archiboard-releases/releases/download/v0.4.3/Archiboard-Setup-0.4.3.exe",
+  "sha256": "40caf21e1151aaf4fb4af34faaffe58d48c464241c706f7b2e86602865246023",
+  "notes": "일정표 PDF 내보내기 v2 — 화면에 보이는 간트를 그대로 캡처해 저장(색상·비율 동일), 용지 A4/A3/A2 정중앙 배치·여백 최소화, 인쇄 대화상자 없이 즉시 다운로드",
+  "publishedAt": "2026-07-22T07:09:58.053Z"
 }
