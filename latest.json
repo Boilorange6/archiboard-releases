@@ -1,7 +1,7 @@
 {
-  "version": "0.5.0",
-  "url": "https://github.com/Boilorange6/archiboard-releases/releases/download/v0.5.0/Archiboard-Setup-0.5.0.exe",
-  "sha256": "1bc28d023e5f7baf3e853f8aec1829d81995684d21c46561878adcf62b5d3f4e",
-  "notes": "자료갤러리 썸네일 압축(카드/목업 슬롯/폴더 갤러리 로딩 대폭 개선) + 현황탭 미니 타임라인·날짜 기간 표기 통일",
-  "publishedAt": "2026-07-24T12:15:25.164Z"
+  "version": "0.5.1",
+  "url": "https://github.com/Boilorange6/archiboard-releases/releases/download/v0.5.1/Archiboard-Setup-0.5.1.exe",
+  "sha256": "b5dfed5bf31fb639585ca1e695c208fb4f7cd48b77d5dad31beb8c52cebd670b",
+  "notes": "산출물 기본 담당자 기능 — 산출물 단위 배정으로 반복 배정 제거(미배정 작업 일괄 배정, 새 작업 자동 배정, 작업별 개별 배정 유지)",
+  "publishedAt": "2026-07-24T13:07:46.731Z"
 }
