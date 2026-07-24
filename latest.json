@@ -1,7 +1,7 @@
 {
-  "version": "0.4.6",
-  "url": "https://github.com/Boilorange6/archiboard-releases/releases/download/v0.4.6/Archiboard-Setup-0.4.6.exe",
-  "sha256": "a22f6879dd93c7b0158e8bcebf28de8adae9d69f73786cb50e7da79fd821eb7c",
-  "notes": "목업 이미지 미배정 버그 수정(Gemini 경로 접두어 정규화) + 목업 모달 화면 맞춤 개선(부족자료 접이식, 페이지 미리보기 뷰포트 내 표시)",
-  "publishedAt": "2026-07-24T01:08:31.136Z"
+  "version": "0.4.7",
+  "url": "https://github.com/Boilorange6/archiboard-releases/releases/download/v0.4.7/Archiboard-Setup-0.4.7.exe",
+  "sha256": "4c40eda3f79110d9defe731db7554d4c45fdd1678c12bd6ea307a094c1a5f60c",
+  "notes": "목업 페이지 미리보기가 보이지 않던 회귀 수정 — 페이지 박스 크기 계산 방식 교정(비율 유지하며 화면 내 표시)",
+  "publishedAt": "2026-07-24T01:52:20.974Z"
 }
