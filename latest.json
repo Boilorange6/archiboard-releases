@@ -1,7 +1,7 @@
 {
-  "version": "0.4.5",
-  "url": "https://github.com/Boilorange6/archiboard-releases/releases/download/v0.4.5/Archiboard-Setup-0.4.5.exe",
-  "sha256": "300ac9c71f4655e6c3a9db11e424069f23d7f3ba27304acc216e1a7732bbd0c5",
-  "notes": "Gemini 프리셋 추출·목업 생성 타임아웃 버그 수정 — 300초 제한으로 대형 문서 추출이 실패하던 문제 해결(타임아웃 10분로 확대)",
-  "publishedAt": "2026-07-23T19:05:45.566Z"
+  "version": "0.4.6",
+  "url": "https://github.com/Boilorange6/archiboard-releases/releases/download/v0.4.6/Archiboard-Setup-0.4.6.exe",
+  "sha256": "a22f6879dd93c7b0158e8bcebf28de8adae9d69f73786cb50e7da79fd821eb7c",
+  "notes": "목업 이미지 미배정 버그 수정(Gemini 경로 접두어 정규화) + 목업 모달 화면 맞춤 개선(부족자료 접이식, 페이지 미리보기 뷰포트 내 표시)",
+  "publishedAt": "2026-07-24T01:08:31.136Z"
 }
