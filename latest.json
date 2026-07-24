@@ -1,7 +1,7 @@
 {
-  "version": "0.4.8",
-  "url": "https://github.com/Boilorange6/archiboard-releases/releases/download/v0.4.8/Archiboard-Setup-0.4.8.exe",
-  "sha256": "88065c546734dc80050613849eb690f2e771d53a819fb480f52d0ba1c99d4c26",
-  "notes": "운영에서 만든 재건축공모_프리셋을 앱 내장 기본 프리셋으로 패키징 — 기존 내장 프리셋 대체",
-  "publishedAt": "2026-07-24T03:09:35.100Z"
+  "version": "0.4.9",
+  "url": "https://github.com/Boilorange6/archiboard-releases/releases/download/v0.4.9/Archiboard-Setup-0.4.9.exe",
+  "sha256": "920c6a6f0b24b9673fafe64f18716369387fd45b04e06b66b2a59d00a19afa24",
+  "notes": "일정표 개선 — 미래 시작 프로젝트의 빈 구간 제거(일정 기준 범위), 시작까지 D-day 배지, 앞/뒤 7일 수동 확장 버튼",
+  "publishedAt": "2026-07-24T09:22:16.767Z"
 }
