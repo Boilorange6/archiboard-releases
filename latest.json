@@ -1,7 +1,7 @@
 {
-  "version": "0.4.7",
-  "url": "https://github.com/Boilorange6/archiboard-releases/releases/download/v0.4.7/Archiboard-Setup-0.4.7.exe",
-  "sha256": "4c40eda3f79110d9defe731db7554d4c45fdd1678c12bd6ea307a094c1a5f60c",
-  "notes": "목업 페이지 미리보기가 보이지 않던 회귀 수정 — 페이지 박스 크기 계산 방식 교정(비율 유지하며 화면 내 표시)",
-  "publishedAt": "2026-07-24T01:52:20.974Z"
+  "version": "0.4.8",
+  "url": "https://github.com/Boilorange6/archiboard-releases/releases/download/v0.4.8/Archiboard-Setup-0.4.8.exe",
+  "sha256": "88065c546734dc80050613849eb690f2e771d53a819fb480f52d0ba1c99d4c26",
+  "notes": "운영에서 만든 재건축공모_프리셋을 앱 내장 기본 프리셋으로 패키징 — 기존 내장 프리셋 대체",
+  "publishedAt": "2026-07-24T03:09:35.100Z"
 }
