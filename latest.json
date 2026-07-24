@@ -1,7 +1,7 @@
 {
-  "version": "0.5.1",
-  "url": "https://github.com/Boilorange6/archiboard-releases/releases/download/v0.5.1/Archiboard-Setup-0.5.1.exe",
-  "sha256": "b5dfed5bf31fb639585ca1e695c208fb4f7cd48b77d5dad31beb8c52cebd670b",
-  "notes": "산출물 기본 담당자 기능 — 산출물 단위 배정으로 반복 배정 제거(미배정 작업 일괄 배정, 새 작업 자동 배정, 작업별 개별 배정 유지)",
-  "publishedAt": "2026-07-24T13:07:46.731Z"
+  "version": "0.5.2",
+  "url": "https://github.com/Boilorange6/archiboard-releases/releases/download/v0.5.2/Archiboard-Setup-0.5.2.exe",
+  "sha256": "1e12f6a1866b55d9b0bbfd27d05871a9bb2934a0ee873ee2021d16de2b11dccd",
+  "notes": "작업 탭 파일 삭제 버그 수정 — 작업자가 올린 작업물 파일을 삭제(휴지통 이동)할 수 있도록 권한 교정",
+  "publishedAt": "2026-07-24T13:55:32.341Z"
 }
