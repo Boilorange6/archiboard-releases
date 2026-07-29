@@ -1,7 +1,7 @@
 {
-  "version": "0.5.2",
-  "url": "https://github.com/Boilorange6/archiboard-releases/releases/download/v0.5.2/Archiboard-Setup-0.5.2.exe",
-  "sha256": "1e12f6a1866b55d9b0bbfd27d05871a9bb2934a0ee873ee2021d16de2b11dccd",
-  "notes": "작업 탭 파일 삭제 버그 수정 — 작업자가 올린 작업물 파일을 삭제(휴지통 이동)할 수 있도록 권한 교정",
-  "publishedAt": "2026-07-24T13:55:32.341Z"
+  "version": "0.5.3",
+  "url": "https://github.com/Boilorange6/archiboard-releases/releases/download/v0.5.3/Archiboard-Setup-0.5.3.exe",
+  "sha256": "5de155dfd906e3ec3340b272884d81eb91acea60eec3094e98a75ff424c14b56",
+  "notes": "목업 레이아웃 조정 WYSIWYG — 실제 이미지·텍스트를 보며 슬롯 이동/크기 조정, 편집기 내 이미지 변경, 프리셋 원본 편집과 라벨 구분",
+  "publishedAt": "2026-07-29T14:50:10.448Z"
 }
