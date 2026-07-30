@@ -1,7 +1,7 @@
 {
-  "version": "0.5.3",
-  "url": "https://github.com/Boilorange6/archiboard-releases/releases/download/v0.5.3/Archiboard-Setup-0.5.3.exe",
-  "sha256": "5de155dfd906e3ec3340b272884d81eb91acea60eec3094e98a75ff424c14b56",
-  "notes": "목업 레이아웃 조정 WYSIWYG — 실제 이미지·텍스트를 보며 슬롯 이동/크기 조정, 편집기 내 이미지 변경, 프리셋 원본 편집과 라벨 구분",
-  "publishedAt": "2026-07-29T14:50:10.448Z"
+  "version": "0.5.4",
+  "url": "https://github.com/Boilorange6/archiboard-releases/releases/download/v0.5.4/Archiboard-Setup-0.5.4.exe",
+  "sha256": "2cf6ec62dd5e676081b8373a8dc8c6a8fe38506d9588ab7f58fa86cfc5fe7f85",
+  "notes": "이미지 로딩 UX 종합 개선 — 모든 이미지에 로딩 스켈레톤 표시, 썸네일 서버 프리워밍(첫 조회부터 즉시), 확대 보기 라이트박스(썸네일 먼저·원본 교체·이전/다음 탐색), PDF 미리보기 캐시",
+  "publishedAt": "2026-07-30T03:48:36.855Z"
 }
