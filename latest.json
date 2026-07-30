@@ -1,7 +1,7 @@
 {
-  "version": "0.5.4",
-  "url": "https://github.com/Boilorange6/archiboard-releases/releases/download/v0.5.4/Archiboard-Setup-0.5.4.exe",
-  "sha256": "2cf6ec62dd5e676081b8373a8dc8c6a8fe38506d9588ab7f58fa86cfc5fe7f85",
-  "notes": "이미지 로딩 UX 종합 개선 — 모든 이미지에 로딩 스켈레톤 표시, 썸네일 서버 프리워밍(첫 조회부터 즉시), 확대 보기 라이트박스(썸네일 먼저·원본 교체·이전/다음 탐색), PDF 미리보기 캐시",
-  "publishedAt": "2026-07-30T03:48:36.855Z"
+  "version": "0.5.5",
+  "url": "https://github.com/Boilorange6/archiboard-releases/releases/download/v0.5.5/Archiboard-Setup-0.5.5.exe",
+  "sha256": "00613c1192b6d25014e2dd6df5fb8a60b9c11ef47f84e1adb486c5563b30238b",
+  "notes": "탭 역할 정리 — 설정탭은 구조 개요서로(마일스톤 날짜 편집을 일정탭으로 일원화, 공모일 변경 시 파급 미리보기+적용/취소), 현황탭 카드 경량화(작업 요약+펼침)",
+  "publishedAt": "2026-07-30T05:11:41.023Z"
 }
