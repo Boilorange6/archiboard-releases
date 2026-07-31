@@ -1,7 +1,7 @@
 {
-  "version": "0.5.6",
-  "url": "https://github.com/Boilorange6/archiboard-releases/releases/download/v0.5.6/Archiboard-Setup-0.5.6.exe",
-  "sha256": "15ed14c40b36672ffc936493de9470c8656c64267459378eb3ece1c81d022a78",
-  "notes": "노션 자동 미러(프로젝트 현황을 노션 페이지로 자동 동기화, 관리자 외부 연동 탭·프로젝트별 제외 설정) · 체크박스 커스텀 디자인 통일 · 프리셋 관리/추출 관리자 전용화",
-  "publishedAt": "2026-07-31T06:45:25.707Z"
+  "version": "0.5.7",
+  "url": "https://github.com/Boilorange6/archiboard-releases/releases/download/v0.5.7/Archiboard-Setup-0.5.7.exe",
+  "sha256": "4823e3fdb811b79606c74cf229e3225e74382ac697e5f65e3fdb9e7b26179237",
+  "notes": "외부 연동 탭에 노션 처음 설정 안내(3단계) 내장",
+  "publishedAt": "2026-07-31T07:20:07.637Z"
 }
