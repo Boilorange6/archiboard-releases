@@ -1,7 +1,7 @@
 {
-  "version": "0.5.7",
-  "url": "https://github.com/Boilorange6/archiboard-releases/releases/download/v0.5.7/Archiboard-Setup-0.5.7.exe",
-  "sha256": "4823e3fdb811b79606c74cf229e3225e74382ac697e5f65e3fdb9e7b26179237",
-  "notes": "외부 연동 탭에 노션 처음 설정 안내(3단계) 내장",
-  "publishedAt": "2026-07-31T07:20:07.637Z"
+  "version": "0.5.8",
+  "url": "https://github.com/Boilorange6/archiboard-releases/releases/download/v0.5.8/Archiboard-Setup-0.5.8.exe",
+  "sha256": "39ac2ce11cf691c1986cd2d9661bd1a83f9fcabe46404aae5c93068a1403c65f",
+  "notes": "노션 미러 2.0 — 대시보드형 페이지(콜아웃·간트 차트·색상 표), 작업물 파일 노션 첨부(자동 업로드·열람)",
+  "publishedAt": "2026-07-31T13:10:35.679Z"
 }
