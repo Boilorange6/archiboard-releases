@@ -1,7 +1,7 @@
 {
-  "version": "0.6.0",
-  "url": "https://github.com/Boilorange6/archiboard-releases/releases/download/v0.6.0/Archiboard-Setup-0.6.0.exe",
-  "sha256": "ffde36b98004b06e927f1bc8ceaac484dadf76a852dadf179ab7ff32251aff81",
-  "notes": "목업 품질 개선 — 글자 넘침·사진 위 대비·이미지 중복 대폭 개선",
-  "publishedAt": "2026-08-03T01:37:52.833Z"
+  "version": "0.6.1",
+  "url": "https://github.com/Boilorange6/archiboard-releases/releases/download/v0.6.1/Archiboard-Setup-0.6.1.exe",
+  "sha256": "5f2a655c3423061a8df5d4773e79398a64fa560ad0d3438c27c3f1862dc6975f",
+  "notes": "목업 대비 개선 — 흰 배경 위 글자 가독성, 대용량 사진 밝기 측정 복구",
+  "publishedAt": "2026-08-03T07:47:09.278Z"
 }
