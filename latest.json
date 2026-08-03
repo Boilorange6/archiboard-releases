@@ -1,7 +1,7 @@
 {
-  "version": "0.5.9",
-  "url": "https://github.com/Boilorange6/archiboard-releases/releases/download/v0.5.9/Archiboard-Setup-0.5.9.exe",
-  "sha256": "dc347f088f7cfa7c742b2583c4f0b35bf2c2bd4353d15e7aa1a88cccf9611547",
-  "notes": "노션 통합 작업 데이터베이스 — 사무소 전체 작업을 노션 DB로 동기화(모바일에서 내 작업·마감·상태별 보드 뷰), 관리자 탭 DB 관리·뷰 안내",
-  "publishedAt": "2026-07-31T18:06:06.290Z"
+  "version": "0.6.0",
+  "url": "https://github.com/Boilorange6/archiboard-releases/releases/download/v0.6.0/Archiboard-Setup-0.6.0.exe",
+  "sha256": "ffde36b98004b06e927f1bc8ceaac484dadf76a852dadf179ab7ff32251aff81",
+  "notes": "목업 품질 개선 — 글자 넘침·사진 위 대비·이미지 중복 대폭 개선",
+  "publishedAt": "2026-08-03T01:37:52.833Z"
 }
