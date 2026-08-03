@@ -1,7 +1,7 @@
 {
-  "version": "0.6.1",
-  "url": "https://github.com/Boilorange6/archiboard-releases/releases/download/v0.6.1/Archiboard-Setup-0.6.1.exe",
-  "sha256": "5f2a655c3423061a8df5d4773e79398a64fa560ad0d3438c27c3f1862dc6975f",
-  "notes": "목업 대비 개선 — 흰 배경 위 글자 가독성, 대용량 사진 밝기 측정 복구",
-  "publishedAt": "2026-08-03T07:47:09.278Z"
+  "version": "0.6.2",
+  "url": "https://github.com/Boilorange6/archiboard-releases/releases/download/v0.6.2/Archiboard-Setup-0.6.2.exe",
+  "sha256": "98c0a600b45d188de314ffde971ba9e1c74ef23ccb0709ea31fd8413b545da75",
+  "notes": "대용량 이미지 안전성 — 썸네일 복구, 사진 회전 보존, 서버 정지 해소",
+  "publishedAt": "2026-08-03T12:59:51.996Z"
 }
