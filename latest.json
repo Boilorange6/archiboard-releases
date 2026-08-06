@@ -1,7 +1,7 @@
 {
-  "version": "0.7.0",
-  "url": "https://github.com/Boilorange6/archiboard-releases/releases/download/v0.7.0/Archiboard-Setup-0.7.0.exe",
-  "sha256": "b260d5488730c5a10a87ee74d988a12f7c44f5d26f8acc980b4d31f8b0cfedc4",
-  "notes": "목업 글자 크기가 원본과 맞게 나옵니다. 회사 푸터가 사라지지 않고 모든 페이지에서 같은 문구로 나옵니다. 다른 프로젝트 프리셋을 써도 원본 사업명이 새어나오지 않습니다. 큰 PDF 추출이 중간에 실패하던 문제를 고쳤습니다.",
-  "publishedAt": "2026-08-06T04:05:56.965Z"
+  "version": "0.7.1",
+  "url": "https://github.com/Boilorange6/archiboard-releases/releases/download/v0.7.1/Archiboard-Setup-0.7.1.exe",
+  "sha256": "6d4a6ebcda90636614aa70032ac9f252cfeb8133504ed92b0118985173a9b0d1",
+  "notes": "프리셋 추출 안정성 — 청크 재시도, 실패 사유 표시, 반복 푸터 검출 수정",
+  "publishedAt": "2026-08-06T14:46:03.870Z"
 }
