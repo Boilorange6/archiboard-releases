@@ -1,7 +1,7 @@
 {
-  "version": "0.7.1",
-  "url": "https://github.com/Boilorange6/archiboard-releases/releases/download/v0.7.1/Archiboard-Setup-0.7.1.exe",
-  "sha256": "6d4a6ebcda90636614aa70032ac9f252cfeb8133504ed92b0118985173a9b0d1",
-  "notes": "프리셋 추출 안정성 — 청크 재시도, 실패 사유 표시, 반복 푸터 검출 수정",
-  "publishedAt": "2026-08-06T14:46:03.870Z"
+  "version": "0.7.2",
+  "url": "https://github.com/Boilorange6/archiboard-releases/releases/download/v0.7.2/Archiboard-Setup-0.7.2.exe",
+  "sha256": "07d510ace8cf6a0345b8f6ec0230e8d35c161fcafd705b0be6950985f79934ac",
+  "notes": "프리셋·목업 UI 결함 7건 수정 — 미저장 편집 보호, 버튼 스타일, 완료 모달 넘침",
+  "publishedAt": "2026-08-07T15:02:25.390Z"
 }
