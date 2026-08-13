@@ -1,7 +1,7 @@
 {
-  "version": "0.7.2",
-  "url": "https://github.com/Boilorange6/archiboard-releases/releases/download/v0.7.2/Archiboard-Setup-0.7.2.exe",
-  "sha256": "07d510ace8cf6a0345b8f6ec0230e8d35c161fcafd705b0be6950985f79934ac",
-  "notes": "프리셋·목업 UI 결함 7건 수정 — 미저장 편집 보호, 버튼 스타일, 완료 모달 넘침",
-  "publishedAt": "2026-08-07T15:02:25.390Z"
+  "version": "0.8.0",
+  "url": "https://github.com/Boilorange6/archiboard-releases/releases/download/v0.8.0/Archiboard-Setup-0.8.0.exe",
+  "sha256": "ef087f32da89d1cb9b57aed94412f184fd2864a433ce3ad2c351770671c9918e",
+  "notes": "일정탭 담당자 배지·프로필 색상, 자료탭 갤러리보기, 작업 생성 대화상자",
+  "publishedAt": "2026-08-13T03:42:21.950Z"
 }
