@@ -1,7 +1,7 @@
 {
-  "version": "0.9.0",
-  "url": "https://github.com/Boilorange6/archiboard-releases/releases/download/v0.9.0/Archiboard-Setup-0.9.0.exe",
-  "sha256": "7a3c492beb1b7ab16a51f608e7524faf196426b136cdd900462ce01fca1731f7",
-  "notes": "아치보드 컴패니언 도입 — 각 PC 로컬 에이전트로 개인 자료실·바나나패드 연동 지원. ①계정별 개인 자료실(공용|개인 토글, 개인→공용 올리기) ②자료탭 바나나패드 연동(이미지 보내기·산출물 가져오기) ③컴패니언 원클릭 설치본 동봉",
-  "publishedAt": "2026-08-14T00:45:05.643Z"
+  "version": "0.9.1",
+  "url": "https://github.com/Boilorange6/archiboard-releases/releases/download/v0.9.1/Archiboard-Setup-0.9.1.exe",
+  "sha256": "579f9fc285ff3a5f8105f1fe677b6e2022e0ffe213e068143bfe95c77c4c9731",
+  "notes": "바나나패드 원클릭 설치 — 미설치 PC에서 [바나나패드 설치] 버튼으로 공개 릴리스에서 받아 자동 설치(수동 다운로드 링크는 폴백 유지)",
+  "publishedAt": "2026-08-14T02:17:31.482Z"
 }
