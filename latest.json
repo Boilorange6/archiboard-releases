@@ -1,7 +1,7 @@
 {
-  "version": "0.9.1",
-  "url": "https://github.com/Boilorange6/archiboard-releases/releases/download/v0.9.1/Archiboard-Setup-0.9.1.exe",
-  "sha256": "579f9fc285ff3a5f8105f1fe677b6e2022e0ffe213e068143bfe95c77c4c9731",
-  "notes": "바나나패드 원클릭 설치 — 미설치 PC에서 [바나나패드 설치] 버튼으로 공개 릴리스에서 받아 자동 설치(수동 다운로드 링크는 폴백 유지)",
-  "publishedAt": "2026-08-14T02:17:31.482Z"
+  "version": "0.10.0",
+  "url": "https://github.com/Boilorange6/archiboard-releases/releases/download/v0.10.0/Archiboard-Setup-0.10.0.exe",
+  "sha256": "b668745079ad9a9c31be0b46726d496c1358e7d7b65313dc1e89c84a12f3cb35",
+  "notes": "삽도 생성기 미니앱 — 기준 이미지에서 편집형 SVG 삽도 생성·수정 요청(codex 원클릭 셋업 위저드 포함)",
+  "publishedAt": "2026-08-14T10:00:42.631Z"
 }
