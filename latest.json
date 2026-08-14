@@ -1,7 +1,7 @@
 {
-  "version": "0.8.0",
-  "url": "https://github.com/Boilorange6/archiboard-releases/releases/download/v0.8.0/Archiboard-Setup-0.8.0.exe",
-  "sha256": "ef087f32da89d1cb9b57aed94412f184fd2864a433ce3ad2c351770671c9918e",
-  "notes": "일정탭 담당자 배지·프로필 색상, 자료탭 갤러리보기, 작업 생성 대화상자",
-  "publishedAt": "2026-08-13T03:42:21.950Z"
+  "version": "0.9.0",
+  "url": "https://github.com/Boilorange6/archiboard-releases/releases/download/v0.9.0/Archiboard-Setup-0.9.0.exe",
+  "sha256": "7a3c492beb1b7ab16a51f608e7524faf196426b136cdd900462ce01fca1731f7",
+  "notes": "아치보드 컴패니언 도입 — 각 PC 로컬 에이전트로 개인 자료실·바나나패드 연동 지원. ①계정별 개인 자료실(공용|개인 토글, 개인→공용 올리기) ②자료탭 바나나패드 연동(이미지 보내기·산출물 가져오기) ③컴패니언 원클릭 설치본 동봉",
+  "publishedAt": "2026-08-14T00:45:05.643Z"
 }
