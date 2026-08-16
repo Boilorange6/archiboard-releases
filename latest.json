@@ -1,7 +1,7 @@
 {
-  "version": "0.11.0",
-  "url": "https://github.com/Boilorange6/archiboard-releases/releases/download/v0.11.0/Archiboard-Setup-0.11.0.exe",
-  "sha256": "67724a8085413b6edfefed460a67e1b957f1cd58afab674de2d7f63843c0287b",
-  "notes": "삽도 자가 검증 — 생성한 삽도를 스스로 렌더해 보고 다듬는 라운드 추가. 작업 진행 단계·경과 시간 표시, 로그인 대기 타임아웃, 재시작 후 작업 목록 복원, 작업 폴더 자동 정리.",
-  "publishedAt": "2026-08-16T09:27:25.565Z"
+  "version": "0.11.1",
+  "url": "https://github.com/Boilorange6/archiboard-releases/releases/download/v0.11.1/Archiboard-Setup-0.11.1.exe",
+  "sha256": "951af64b6d21b647bcb6e781a81e6235d224714c6207ea4442af58b615bf5687",
+  "notes": "컴패니언 재설치 안내 수리 — 0.11.0의 삽도 자가 검증을 쓰려면 컴패니언도 새로 받아야 하는데 안내가 뜨지 않던 문제를 고쳤습니다. 앱을 열면 '컴패니언을 다시 내려받아 실행하세요' 카드가 표시됩니다.",
+  "publishedAt": "2026-08-16T10:32:06.976Z"
 }
