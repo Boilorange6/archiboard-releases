@@ -1,7 +1,7 @@
 {
-  "version": "0.10.0",
-  "url": "https://github.com/Boilorange6/archiboard-releases/releases/download/v0.10.0/Archiboard-Setup-0.10.0.exe",
-  "sha256": "b668745079ad9a9c31be0b46726d496c1358e7d7b65313dc1e89c84a12f3cb35",
-  "notes": "삽도 생성기 미니앱 — 기준 이미지에서 편집형 SVG 삽도 생성·수정 요청(codex 원클릭 셋업 위저드 포함)",
-  "publishedAt": "2026-08-14T10:00:42.631Z"
+  "version": "0.11.0",
+  "url": "https://github.com/Boilorange6/archiboard-releases/releases/download/v0.11.0/Archiboard-Setup-0.11.0.exe",
+  "sha256": "67724a8085413b6edfefed460a67e1b957f1cd58afab674de2d7f63843c0287b",
+  "notes": "삽도 자가 검증 — 생성한 삽도를 스스로 렌더해 보고 다듬는 라운드 추가. 작업 진행 단계·경과 시간 표시, 로그인 대기 타임아웃, 재시작 후 작업 목록 복원, 작업 폴더 자동 정리.",
+  "publishedAt": "2026-08-16T09:27:25.565Z"
 }
