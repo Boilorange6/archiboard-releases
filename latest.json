@@ -1,7 +1,7 @@
 {
-  "version": "0.11.1",
-  "url": "https://github.com/Boilorange6/archiboard-releases/releases/download/v0.11.1/Archiboard-Setup-0.11.1.exe",
-  "sha256": "951af64b6d21b647bcb6e781a81e6235d224714c6207ea4442af58b615bf5687",
-  "notes": "컴패니언 재설치 안내 수리 — 0.11.0의 삽도 자가 검증을 쓰려면 컴패니언도 새로 받아야 하는데 안내가 뜨지 않던 문제를 고쳤습니다. 앱을 열면 '컴패니언을 다시 내려받아 실행하세요' 카드가 표시됩니다.",
-  "publishedAt": "2026-08-16T10:32:06.976Z"
+  "version": "0.12.0",
+  "url": "https://github.com/Boilorange6/archiboard-releases/releases/download/v0.12.0/Archiboard-Setup-0.12.0.exe",
+  "sha256": "7fcacd93235c21c010f93ca6e096893366a5b83dbb66742c49cc3659c3a2c08c",
+  "notes": "삽도 생성기 개편 — 원자료·샘플자료 두 슬롯 입력, 이미지 초안(gpt-image) 기반 생성, 배치개념도·단면도는 초안을 그대로 벡터로 트레이싱하고 화살표·라벨은 편집 가능한 오버레이로 얹습니다(색·화살표·라벨 편집 가능). 유형 선택이 픽토그램/배치개념도/단면도/기타로 바뀌었습니다. 컴패니언 재설치 필요(0.6.0). 컴패니언 설치 요청이 10초에 끊기던 문제도 수리했습니다.",
+  "publishedAt": "2026-08-18T06:28:00.460Z"
 }
