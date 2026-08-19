@@ -1,7 +1,7 @@
 {
-  "version": "0.13.2",
-  "url": "https://github.com/Boilorange6/archiboard-releases/releases/download/v0.13.2/Archiboard-Setup-0.13.2.exe",
-  "sha256": "a07a577e0ea7c23a26a80f53c2434155b8cb7ba6c1a7238b87df46cb90ce9c68",
-  "notes": "기본 프리셋 수정: 설계설명서·도판·CG·cg 산출물이 존재하지 않는 마일스톤을 참조해 공모 시작일로 잡히던 문제를 공모 마감일 기준으로 바로잡았습니다(새 프로젝트·새 설치에 적용; 이미 저장된 회사 표준 프리셋은 회사 표준 화면에서 한 번 다시 저장해 주세요). 화면: 남은 남색 버튼(새 프로젝트·프로젝트 확정·일정 적용·PDF 내보내기)을 공용 청록 버튼으로 통일. 콘솔 경고 반복 제거. 컴패니언 변경 없음.",
-  "publishedAt": "2026-08-19T05:13:42.993Z"
+  "version": "0.13.3",
+  "url": "https://github.com/Boilorange6/archiboard-releases/releases/download/v0.13.3/Archiboard-Setup-0.13.3.exe",
+  "sha256": "d31373a90dc34eb46317a5f554f4f94e96f40a8ff518a0a3c11d27a02de5ca07",
+  "notes": "레이아웃 편집기가 공용 모달로 통일됐습니다: Escape로 닫기(저장 안 한 변경이 있으면 확인), 포커스 트랩, 배경 스크롤 잠금, 닫기 버튼은 우상단 X 하나로. 목업 뷰어에서 열 때도 뷰어 위에 자연스럽게 겹칩니다. 컴패니언 변경 없음.",
+  "publishedAt": "2026-08-19T08:08:54.041Z"
 }
