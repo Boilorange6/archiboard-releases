@@ -1,7 +1,7 @@
 {
-  "version": "0.15.0",
-  "url": "https://github.com/Boilorange6/archiboard-releases/releases/download/v0.15.0/Archiboard-Setup-0.15.0.exe",
-  "sha256": "84ecc963865fb92e15ddca35a109419258647015261856a5043c04a0e86e287f",
-  "notes": "컴패니언 codex 로그인 수정(codex-home 생성), 컴패니언 0.8.0, 직원 런처 자동 설치·기동",
-  "publishedAt": "2026-08-20T02:55:33.732Z"
+  "version": "0.16.0",
+  "url": "https://github.com/Boilorange6/archiboard-releases/releases/download/v0.16.0/Archiboard-Setup-0.16.0.exe",
+  "sha256": "baa0f25aec00ec84cbbc1ed3191681077991ad8bf99655da0160ac7065154771",
+  "notes": "컴패니언 0.8.1 — 삽도 skills·vtracer 자기치유, 관리자 아이콘 컴패니언 자동 업데이트",
+  "publishedAt": "2026-08-20T04:34:23.275Z"
 }
