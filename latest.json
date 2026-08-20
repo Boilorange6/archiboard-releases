@@ -1,7 +1,7 @@
 {
-  "version": "0.14.0",
-  "url": "https://github.com/Boilorange6/archiboard-releases/releases/download/v0.14.0/Archiboard-Setup-0.14.0.exe",
-  "sha256": "817784760d58d0b743e1422c648d1f1c6f4e4728beae6ae23647087d49d57c87",
-  "notes": "자료탭 갤러리 개편: 균일한 타일 그리드(S/M/L 크기 조절, 기억됨), 파일명·폴더는 마우스를 올렸을 때만, 여러 장 선택 모드(Shift 범위 선택) + 하단 액션 바로 일괄 다운로드·폴더 이동·휴지통. 폴더별 보기 헤더 정리. 이동/삭제가 실패해도 화면이 유지되고 이어서 재시도할 수 있습니다. 컴패니언 변경 없음.",
-  "publishedAt": "2026-08-19T13:52:19.621Z"
+  "version": "0.15.0",
+  "url": "https://github.com/Boilorange6/archiboard-releases/releases/download/v0.15.0/Archiboard-Setup-0.15.0.exe",
+  "sha256": "84ecc963865fb92e15ddca35a109419258647015261856a5043c04a0e86e287f",
+  "notes": "컴패니언 codex 로그인 수정(codex-home 생성), 컴패니언 0.8.0, 직원 런처 자동 설치·기동",
+  "publishedAt": "2026-08-20T02:55:33.732Z"
 }
