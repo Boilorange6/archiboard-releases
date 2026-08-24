@@ -1,7 +1,7 @@
 {
-  "version": "0.16.0",
-  "url": "https://github.com/Boilorange6/archiboard-releases/releases/download/v0.16.0/Archiboard-Setup-0.16.0.exe",
-  "sha256": "baa0f25aec00ec84cbbc1ed3191681077991ad8bf99655da0160ac7065154771",
-  "notes": "컴패니언 0.8.1 — 삽도 skills·vtracer 자기치유, 관리자 아이콘 컴패니언 자동 업데이트",
-  "publishedAt": "2026-08-20T04:34:23.275Z"
+  "version": "0.17.0",
+  "url": "https://github.com/Boilorange6/archiboard-releases/releases/download/v0.17.0/Archiboard-Setup-0.17.0.exe",
+  "sha256": "786f92b0f175b706ddc34bb0a46617169c4fe7630d7b6b608464bcbd1e98d0a6",
+  "notes": "삽도 유형 레지스트리(회사 표준 관리·AI 가이드 초안) + SVG 구조 계약 v2(색 묶음·안정 id·매니페스트·정화)·컴패니언 0.9.0(스킬 v7 자동 갱신)",
+  "publishedAt": "2026-08-24T14:25:00.494Z"
 }
