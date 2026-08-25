@@ -1,7 +1,7 @@
 {
-  "version": "0.18.0",
-  "url": "https://github.com/Boilorange6/archiboard-releases/releases/download/v0.18.0/Archiboard-Setup-0.18.0.exe",
-  "sha256": "ac86b91c336cdd7bdbe5cd17ccf3f35b73d69ca75d1e3aa66873001854420e19",
-  "notes": "초안 컨펌 게이트·초안 위 표시 도구·SVG 편집 모달 (컴패니언 0.10.0, 스킬 v8)",
-  "publishedAt": "2026-08-25T10:44:49.155Z"
+  "version": "0.19.0",
+  "url": "https://github.com/Boilorange6/archiboard-releases/releases/download/v0.19.0/Archiboard-Setup-0.19.0.exe",
+  "sha256": "3859abc74bbc7c0c03ca093ff97fe44106181b2a06a6d07d7a32adffcb3a75b9",
+  "notes": "개인 자료실 자동 준비 — 백그라운드 설치·자체 업데이트·자동 시작 (컴패니언 0.11.0)",
+  "publishedAt": "2026-08-25T14:00:07.364Z"
 }
