@@ -1,7 +1,7 @@
 {
-  "version": "0.17.0",
-  "url": "https://github.com/Boilorange6/archiboard-releases/releases/download/v0.17.0/Archiboard-Setup-0.17.0.exe",
-  "sha256": "786f92b0f175b706ddc34bb0a46617169c4fe7630d7b6b608464bcbd1e98d0a6",
-  "notes": "삽도 유형 레지스트리(회사 표준 관리·AI 가이드 초안) + SVG 구조 계약 v2(색 묶음·안정 id·매니페스트·정화)·컴패니언 0.9.0(스킬 v7 자동 갱신)",
-  "publishedAt": "2026-08-24T14:25:00.494Z"
+  "version": "0.18.0",
+  "url": "https://github.com/Boilorange6/archiboard-releases/releases/download/v0.18.0/Archiboard-Setup-0.18.0.exe",
+  "sha256": "ac86b91c336cdd7bdbe5cd17ccf3f35b73d69ca75d1e3aa66873001854420e19",
+  "notes": "초안 컨펌 게이트·초안 위 표시 도구·SVG 편집 모달 (컴패니언 0.10.0, 스킬 v8)",
+  "publishedAt": "2026-08-25T10:44:49.155Z"
 }
