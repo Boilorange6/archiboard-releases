@@ -1,7 +1,7 @@
 {
-  "version": "0.20.0",
-  "url": "https://github.com/Boilorange6/archiboard-releases/releases/download/v0.20.0/Archiboard-Setup-0.20.0.exe",
-  "sha256": "a35a15025c5d3534e1acdef86ff7889782cbadb6aad94802639384a4b563af84",
-  "notes": "컴패니언 온디맨드 기동 — 로그온 자동 시작(Run 키) 제거, 개인 자료실·바나나패드·삽도 생성기를 열 때 archiboard://start로 필요할 때만 실행(브라우저 '열기' 허용 1회), 컴패니언 0.12.0·런처 갱신",
-  "publishedAt": "2026-08-27T02:07:35.991Z"
+  "version": "0.20.1",
+  "url": "https://github.com/Boilorange6/archiboard-releases/releases/download/v0.20.1/Archiboard-Setup-0.20.1.exe",
+  "sha256": "0dc082be00ce6de1bce8c9ddc2204da9dce9a81b515f356abcddd4aa42d30c2c",
+  "notes": "컴패니언 self-update 인계 핫픽스 — 옛 컴패니언이 종료 중 응답하지 않을 때 새 컴패니언(0.12.1)이 스스로 종료하던 문제 수정(불확실하면 종료하지 않음), 그 외 0.20.0과 동일(archiboard://start 온디맨드 기동)",
+  "publishedAt": "2026-08-27T07:42:50.505Z"
 }
