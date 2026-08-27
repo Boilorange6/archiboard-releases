@@ -1,7 +1,7 @@
 {
-  "version": "0.19.1",
-  "url": "https://github.com/Boilorange6/archiboard-releases/releases/download/v0.19.1/Archiboard-Setup-0.19.1.exe",
-  "sha256": "10dcb7a57d79a16f47e6f034ae9f27a9c59a81c3f613888317efe06053899851",
-  "notes": "삽도 생성기 대용량 원자료 OOM 핫픽스 — 원자료·스타일 샘플을 선택 시 긴 변 3000px로 축소(EXIF 회전 반영), 컴패니언 0.11.1 입력 크기 상한",
-  "publishedAt": "2026-08-26T01:39:48.697Z"
+  "version": "0.20.0",
+  "url": "https://github.com/Boilorange6/archiboard-releases/releases/download/v0.20.0/Archiboard-Setup-0.20.0.exe",
+  "sha256": "a35a15025c5d3534e1acdef86ff7889782cbadb6aad94802639384a4b563af84",
+  "notes": "컴패니언 온디맨드 기동 — 로그온 자동 시작(Run 키) 제거, 개인 자료실·바나나패드·삽도 생성기를 열 때 archiboard://start로 필요할 때만 실행(브라우저 '열기' 허용 1회), 컴패니언 0.12.0·런처 갱신",
+  "publishedAt": "2026-08-27T02:07:35.991Z"
 }
