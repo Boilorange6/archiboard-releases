@@ -1,8 +1,8 @@
-version: 0.16.0
+version: 0.16.1
 files:
-  - url: https://github.com/Boilorange6/archiboard-releases/releases/download/desktop-v0.16.0/Archiboard-Desktop-Setup-0.16.0.exe
-    sha512: ThAgQ/m1aJ7nigSmgEvlW8BrxDq78rvVqZTzgsTrWIsYZ3s9tXL3MAetah7xZu3LlhC3Pw1DERrVMhRoA/Cewg==
-    size: 129560388
-path: https://github.com/Boilorange6/archiboard-releases/releases/download/desktop-v0.16.0/Archiboard-Desktop-Setup-0.16.0.exe
-sha512: ThAgQ/m1aJ7nigSmgEvlW8BrxDq78rvVqZTzgsTrWIsYZ3s9tXL3MAetah7xZu3LlhC3Pw1DERrVMhRoA/Cewg==
-releaseDate: '2026-11-19T12:45:27.236Z'
+  - url: https://github.com/Boilorange6/archiboard-releases/releases/download/desktop-v0.16.1/Archiboard-Desktop-Setup-0.16.1.exe
+    sha512: LiqOGLSacIo1bUUwaLsitpbRY2tkckZErR32W3rvWdQvj0aeVeez9qnRhK4X5l1RQX2kuzjqHSlITGTSdzvstg==
+    size: 129560639
+path: https://github.com/Boilorange6/archiboard-releases/releases/download/desktop-v0.16.1/Archiboard-Desktop-Setup-0.16.1.exe
+sha512: LiqOGLSacIo1bUUwaLsitpbRY2tkckZErR32W3rvWdQvj0aeVeez9qnRhK4X5l1RQX2kuzjqHSlITGTSdzvstg==
+releaseDate: '2026-11-20T00:39:58.375Z'
